@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fut:home|Door43 (fut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fut|d43-fut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fut/archive/master.zip|d43-fut.zip]]
+
+**Recent Changes**
+{{changes>ns = fut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fut|Ethnologue data]]
+
